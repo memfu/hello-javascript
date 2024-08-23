@@ -12,9 +12,11 @@ un comentario
 en varias líneas
 */
 
-console.log("¡Hola, JavaScript!")
-console.log('¡Hola, JavaScript!')
-console.log(`¡Hola, JavaScript!`)
+// console.log("¡Hola, JavaScript!")
+// console.log('¡Hola, JavaScript!')
+// console.log(`¡Hola, JavaScript!`)
+
+console.log("Hola, JavaScript. Soy María")
 
 // console.log("¡Hola, JavaScript!")
 
@@ -24,11 +26,11 @@ console.log('¡Hola, JavaScript!')
 console.log(`¡Hola, JavaScript!`)
 */
 
-console.log("5")
-console.log(5)
-console.log(5 + 2)
-console.log(5 - 2)
-console.log(5 * 2)
-console.log(5 / 2)
-console.log(5 % 2)
-console.log(5 ** 2)
+// console.log("5")
+// console.log(5)
+// console.log(5 + 2)
+// console.log(5 - 2)
+// console.log(5 * 2)
+// console.log(5 / 2)
+// console.log(5 % 2)
+// console.log(5 ** 2)
